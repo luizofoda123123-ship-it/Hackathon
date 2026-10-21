@@ -46,5 +46,5 @@ Gráficos de progresso.
 
 🌱 Nossa frase
 
-Pequenas ações. Grandes mudanças.
+Pequenas ações, grandes mudanças.
 
